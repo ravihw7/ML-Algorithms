@@ -1,6 +1,6 @@
 # Machine Learning Algorithms
 
-This repository contains implementations of popular Machine Learning algorithms using Python.
+This repository contains implementations of popular Machine Learning algorithms and Deep Learning Algorithms using Python.
 
 ## Supervised Learning
 - Linear Regression
