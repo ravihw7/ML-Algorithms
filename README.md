@@ -29,31 +29,83 @@ The goal of this project is to:
 # 📂 Repository Structure
 
 ```
-Machine-Learning-Algorithms/
+ML-ALGORITHMS/
 │
-├── Supervised-Learning/
-│   ├── Linear-Regression/
-│   ├── Logistic-Regression/
-│   ├── KNN/
-│   ├── Decision-Tree/
-│   ├── Random-Forest/
-│   ├── SVM/
-│   └── Naive-Bayes/
+├── 01-Linear_Regression/
+│   ├── Data/
+│   │   └── insurance.csv
+│   ├── linear_regression.ipynb
+│   └── linear_regression.py
 │
-├── Unsupervised-Learning/
-│   ├── K-Means/
-│   ├── DBSCAN/
-│   ├── PCA/
-│   └── Hierarchical-Clustering/
+├── 02-Logistic_Regression/
+│   ├── Data/
+│   ├── logistic_regression.ipynb
+│   └── logistic_regression.py
 │
-├── Deep-Learning/
-│   ├── ANN/
-│   ├── CNN/
-│   └── RNN/
+├── 03-KNN/
+│   ├── Data/
+│   ├── knn.ipynb
+│   └── knn.py
 │
-├── datasets/
-├── images/
-└── README.md
+├── 04-Decision_Tree/
+│   ├── Data/
+│   ├── decision_tree.ipynb
+│   └── decision_tree.py
+│
+├── 05-Random_Forest/
+│   ├── Data/
+│   ├── random_forest.ipynb
+│   └── random_forest.py
+│
+├── 06-SVM/
+│   ├── Data/
+│   ├── svm.ipynb
+│   └── svm.py
+│
+├── 07-Naive_Bayes/
+│   ├── Data/
+│   ├── naive_bayes.ipynb
+│   └── naive_bayes.py
+│
+├── 08-KMeans/
+│   ├── Data/
+│   ├── kmeans.ipynb
+│   └── kmeans.py
+│
+├── 09-DBSCAN/
+│   ├── Data/
+│   ├── dbscan.ipynb
+│   └── dbscan.py
+│
+├── 10-PCA/
+│   ├── Data/
+│   ├── pca.ipynb
+│   └── pca.py
+│
+├── 11-Hierarchical_Clustering/
+│   ├── Data/
+│   ├── hierarchical_clustering.ipynb
+│   └── hierarchical_clustering.py
+│
+├── 12-ANN/
+│   ├── Data/
+│   ├── ann.ipynb
+│   └── ann.py
+│
+├── 13-CNN/
+│   ├── Data/
+│   ├── cnn.ipynb
+│   └── cnn.py
+│
+├── 14-RNN/
+│   ├── Data/
+│   ├── rnn.ipynb
+│   └── rnn.py
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── LICENSE
 ```
 
 ---
