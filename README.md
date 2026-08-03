@@ -104,7 +104,6 @@ ML-ALGORITHMS/
 │
 ├── .gitignore
 ├── README.md
-├── requirements.txt
 └── LICENSE
 ```
 
