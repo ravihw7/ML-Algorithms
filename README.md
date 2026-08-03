@@ -194,14 +194,6 @@ Activate it
 source .venv/bin/activate
 ```
 
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 # 📖 What You'll Learn
 
 ✔️ Data Preprocessing
