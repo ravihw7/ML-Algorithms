@@ -26,128 +26,146 @@ The goal of this project is to:
 
 ---
 
-# 📂 Repository Structure
-
+## 📂 Repository Structure
+ 
 ```
 ML-ALGORITHMS/
 │
 ├── 01-Linear_Regression/
 │   ├── Data/
 │   │   └── insurance.csv
-│   ├── linear_regression.ipynb
-│   └── linear_regression.py
+│   └── linear_regression.ipynb
 │
-├── 02-Logistic_Regression/
+├── 02-Lasso_Regression/
+│   ├── insurance.csv
+│   └── lasso_regression.ipynb
+│
+├── 03-Logistic_Regression/
 │   ├── Data/
-│   ├── logistic_regression.ipynb
-│   └── logistic_regression.py
+│   │   └── 1-heart.csv
+│   ├── Minor Project/
+│   │   ├── employee_turnover.csv
+│   │   └── employee_turnover.ipynb
+│   └── logistic_regression.ipynb
 │
-├── 03-KNN/
+├── 04-Naive_Bayes/
 │   ├── Data/
-│   ├── knn.ipynb
-│   └── knn.py
+│   │   └── 1-heart.csv
+│   └── naive_bayes.ipynb
 │
-├── 04-Decision_Tree/
+├── 05-kNN/
 │   ├── Data/
-│   ├── decision_tree.ipynb
-│   └── decision_tree.py
+│   │   └── 1-heart.csv
+│   └── kNN.ipynb
 │
-├── 05-Random_Forest/
+├── 06-Decision_Tree/
+│   ├── Minor Project/
+│   │   ├── Dataset/
+│   │   │   └── shop_smart_ecommerce.csv
+│   │   └── ShopSmart.ipynb
+│   ├── decision_tree_classifier.ipynb
+│   └── decision_tree_regressor.ipynb
+│
+├── 07-SVM/
+│   ├── svc.ipynb
+│   └── svr.ipynb
+│
+├── 08-Random_Forest/
+│   └── random_forest.ipynb
+│
+├── 09-Gradient_Boosting/
+│   ├── 01-gradient_boosting.ipynb
+│   ├── 02-ada_boost.ipynb
+│   ├── 03-xg_boost.ipynb
+│   └── 04-ensemble_heterogenous.ipynb
+│
+├── 10-Clustering/
+│   ├── 10.1-K_Means/
+│   │   ├── Minor Project/
+│   │   │   └── k_means_for_iris.ipynb
+│   │   └── k_means.ipynb
+│   ├── 10.2-Heirarchical_Clustering/
+│   │   └── heirarchical_clustering.ipynb
+│   ├── 10.3-DBSCAN/
+│   │   └── dbscan.ipynb
+│   ├── 10.4-PCA/
+│   │   └── pca.ipynb
+│   ├── 10.5-Anomalies_Detection/
+│   │   └── dbscan_for_anomalies.ipynb
+│   ├── 10.6-Isolation_Forest/
+│   │   ├── isolation_forest.ipynb
+│   │   └── thyroid_dataset.csv
+│   └── 10.7-LOF/
+│       └── lof.ipynb
+│
+├── Minor Project/
 │   ├── Data/
-│   ├── random_forest.ipynb
-│   └── random_forest.py
+│   │   └── Iris.csv
+│   └── iris_flower.ipynb
 │
-├── 06-SVM/
-│   ├── Data/
-│   ├── svm.ipynb
-│   └── svm.py
-│
-├── 07-Naive_Bayes/
-│   ├── Data/
-│   ├── naive_bayes.ipynb
-│   └── naive_bayes.py
-│
-├── 08-KMeans/
-│   ├── Data/
-│   ├── kmeans.ipynb
-│   └── kmeans.py
-│
-├── 09-DBSCAN/
-│   ├── Data/
-│   ├── dbscan.ipynb
-│   └── dbscan.py
-│
-├── 10-PCA/
-│   ├── Data/
-│   ├── pca.ipynb
-│   └── pca.py
-│
-├── 11-Hierarchical_Clustering/
-│   ├── Data/
-│   ├── hierarchical_clustering.ipynb
-│   └── hierarchical_clustering.py
-│
-├── 12-ANN/
-│   ├── Data/
-│   ├── ann.ipynb
-│   └── ann.py
-│
-├── 13-CNN/
-│   ├── Data/
-│   ├── cnn.ipynb
-│   └── cnn.py
-│
-├── 14-RNN/
-│   ├── Data/
-│   ├── rnn.ipynb
-│   └── rnn.py
-│
-├── .gitignore
-├── README.md
-└── LICENSE
+└── README.md
 ```
-
+ 
 ---
-
-# 🧠 Algorithms Included
-
-## 📈 Supervised Learning
-
-| Algorithm | Status |
-|-----------|--------|
-| ✅ Linear Regression | ✔️ |
-| ✅ Logistic Regression | ✔️ |
-| ✅ K-Nearest Neighbors (KNN) | ✔️ |
-| ✅ Decision Tree | ✔️ |
-| ✅ Random Forest | ✔️ |
-| ✅ Support Vector Machine (SVM) | ✔️ |
-| ✅ Naive Bayes | ✔️ |
-
+ 
+## 🧠 Algorithms Included
+ 
+### 📈 Supervised Learning
+ 
+| Algorithm                        | Status  |
+| --------------------------------- | ------- |
+| ✅ Linear Regression               | ✔️ Done |
+| ✅ Lasso Regression                | ✔️ Done |
+| ✅ Logistic Regression             | ✔️ Done |
+| ✅ Naive Bayes                     | ✔️ Done |
+| ✅ K-Nearest Neighbors (KNN)       | ✔️ Done |
+| ✅ Decision Tree (Classifier + Regressor) | ✔️ Done |
+| ✅ Support Vector Machine (SVC + SVR)     | ✔️ Done |
+| ✅ Random Forest                   | ✔️ Done |
+| ✅ Gradient Boosting               | ✔️ Done |
+| ✅ AdaBoost                        | ✔️ Done |
+| ✅ XGBoost                         | ✔️ Done |
+| ✅ Heterogeneous Ensemble          | ✔️ Done |
+ 
 ---
-
-## 📊 Unsupervised Learning
-
-| Algorithm | Status |
-|-----------|--------|
-| ✅ K-Means Clustering | ✔️ |
-| ✅ DBSCAN | ✔️ |
-| ✅ Principal Component Analysis (PCA) | ✔️ |
-| ✅ Hierarchical Clustering | ✔️ |
-
+ 
+### 📊 Unsupervised Learning
+ 
+| Algorithm                            | Status  |
+| -------------------------------------- | ------- |
+| ✅ K-Means Clustering                  | ✔️ Done |
+| ✅ Hierarchical Clustering             | ✔️ Done |
+| ✅ DBSCAN                              | ✔️ Done |
+| ✅ Principal Component Analysis (PCA)  | ✔️ Done |
+| ✅ Anomaly Detection (DBSCAN-based)    | ✔️ Done |
+| ✅ Isolation Forest                    | ✔️ Done |
+| ✅ Local Outlier Factor (LOF)          | ✔️ Done |
+ 
 ---
-
-## 🤖 Deep Learning
-
-| Algorithm | Status |
-|-----------|--------|
-| ✅ Artificial Neural Network (ANN) | ✔️ |
-| ✅ Convolutional Neural Network (CNN) | ✔️ |
-| ✅ Recurrent Neural Network (RNN) | ✔️ |
-
+ 
+### 🤖 Deep Learning
+ 
+| Algorithm                            | Status  |
+| -------------------------------------- | ------- |
+| ⏳ Artificial Neural Network (ANN)     | Planned |
+| ⏳ Convolutional Neural Network (CNN)  | Planned |
+| ⏳ Recurrent Neural Network (RNN)      | Planned |
+ 
 ---
-
-# ⚙️ Tech Stack
-
+ 
+### 🧩 Mini Projects
+ 
+| Project                              | Algorithm Used     |
+| -------------------------------------- | ------------------- |
+| Employee Turnover Prediction          | Logistic Regression |
+| ShopSmart (E-commerce)                | Decision Tree       |
+| K-Means for Iris Dataset              | K-Means Clustering  |
+| Iris Flower Classification            | —                   |
+ 
+---
+ 
+## ⚙️ Tech Stack
+ 
 - 🐍 Python
 - NumPy
 - Pandas
@@ -156,77 +174,85 @@ ML-ALGORITHMS/
 - Scikit-Learn
 - TensorFlow / Keras
 - Jupyter Notebook
-
 ---
-
-# 🚀 Getting Started
-
+ 
+## 🚀 Getting Started
+ 
 Clone the repository
-
-```bash
-git clone https://github.com/your-username/Machine-Learning-Algorithms.git
+ 
 ```
-
+git clone https://github.com/ravihw7/ML-Algorithms.git
+```
+ 
 Move into the project
-
-```bash
-cd Machine-Learning-Algorithms
+ 
 ```
-
+cd ML-Algorithms
+```
+ 
 Create a virtual environment
-
-```bash
+ 
+```
 python -m venv .venv
 ```
-
+ 
 Activate it
-
-### Windows
-
-```bash
+ 
+**Windows**
+```
 .venv\Scripts\activate
 ```
-
-### macOS/Linux
-
-```bash
+ 
+**macOS/Linux**
+```
 source .venv/bin/activate
 ```
-
-# 📖 What You'll Learn
-
+ 
+Install dependencies
+ 
+```
+pip install -r requirements.txt
+```
+ 
+---
+ 
+## 📖 What You'll Learn
+ 
 ✔️ Data Preprocessing
-
 ✔️ Model Training
-
 ✔️ Model Evaluation
-
 ✔️ Hyperparameter Tuning
-
 ✔️ Feature Engineering
-
 ✔️ Model Visualization
-
 ✔️ Deep Learning Basics
-
 ✔️ Performance Metrics
-
+ 
 ---
-
-# 🎯 Future Additions
-
-- Gradient Boosting
-- XGBoost
-- LightGBM
-- CatBoost
-- AdaBoost
-- LSTM
-- GRU
-- Autoencoders
-- Transformers
-- GANs
-
+ 
+## 🎯 Future Additions
+ 
+- Artificial Neural Network (ANN)
+- Convolutional Neural Network (CNN)
+- Recurrent Neural Network (RNN)
+- LightGBM, CatBoost
+- LSTM, GRU, Autoencoders, Transformers, GANs
 ---
+ 
+## ⭐ If you like this project...
+ 
+Give it a ⭐ on GitHub!
+It motivates me to build more open-source Machine Learning projects.
+ 
+---
+ 
+## 📬 Connect with Me
+ 
+GitHub: **[ravihw7](https://github.com/ravihw7)**
+ 
+---
+ 
+⭐ Happy Learning • Happy Coding 🚀
+ 
 
 # ⭐ If you like this project...
 
