@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>A collection of Machine Learning and Deep Learning algorithms implemented from scratch and using Python libraries.</b>
+  <b>A collection of Machine Learning and Deep Learning algorithms implemented from scratch and using Python libraries. </b>
 </p>
 
 ---
