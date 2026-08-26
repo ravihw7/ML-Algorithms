@@ -238,22 +238,6 @@ pip install -r requirements.txt
 - LSTM, GRU, Autoencoders, Transformers, GANs
 ---
  
-## ⭐ If you like this project...
- 
-Give it a ⭐ on GitHub!
-It motivates me to build more open-source Machine Learning projects.
- 
----
- 
-## 📬 Connect with Me
- 
-GitHub: **[ravihw7](https://github.com/ravihw7)**
- 
----
- 
-⭐ Happy Learning • Happy Coding 🚀
- 
-
 # ⭐ If you like this project...
 
 Give it a ⭐ on GitHub!
