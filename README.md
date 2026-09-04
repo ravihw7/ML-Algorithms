@@ -147,9 +147,9 @@ ML-ALGORITHMS/
  
 | Algorithm                            | Status  |
 | -------------------------------------- | ------- |
-| ⏳ Artificial Neural Network (ANN)     | Planned |
-| ⏳ Convolutional Neural Network (CNN)  | Planned |
-| ⏳ Recurrent Neural Network (RNN)      | Planned |
+| ✅ Artificial Neural Network (ANN)     | ✔️ Done |
+| ✅ Convolutional Neural Network (CNN)  | ✔️ Done |
+| ✅ Recurrent Neural Network (RNN)      | ✔️ Done |
  
 ---
  
