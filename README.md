@@ -230,12 +230,9 @@ pip install -r requirements.txt
 ---
  
 ## 🎯 Future Additions
- 
-- Artificial Neural Network (ANN)
-- Convolutional Neural Network (CNN)
-- Recurrent Neural Network (RNN)
+
 - LightGBM, CatBoost
-- LSTM, GRU, Autoencoders, Transformers, GANs
+- LSTM, GRU, Autoencoders, Transformers, GANs, RAG
 ---
  
 # ⭐ If you like this project...
