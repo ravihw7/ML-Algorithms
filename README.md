@@ -152,7 +152,16 @@ ML-ALGORITHMS/
 | ✅ Recurrent Neural Network (RNN)      | ✔️ Done |
  
 ---
+
+### 🤖 GenAI
  
+| Algorithm                            | Status  |
+| -------------------------------------- | ------- |
+| ✅ [Transformers](https://github.com/ravihw7/Text-Summarizer) | ✔️ Done |
+| ✅ Retrieval Augmented Generatio(RAG)  | ✔️ Done |
+
+---
+
 ### 🧩 Mini Projects
  
 | Project                              | Algorithm Used     |
