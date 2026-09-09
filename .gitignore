@@ -173,3 +173,5 @@ service_account.json
 # ==========================================================
 *.swp
 *.swo
+
+14-RAG/data/vector_store/
