@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 About
+## 📌 About 
 
 This repository contains implementations of **Machine Learning** and **Deep Learning** algorithms using **Python**.
 
