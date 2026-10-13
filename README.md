@@ -1,13 +1,18 @@
-# 🚀 Machine Learning Algorithms
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1D2021,50:3C3836,100:1D2021&height=230&section=header&text=ML-Algorithms&fontSize=50&fontColor=FABD2F&fontAlignY=42&desc=from%20scratch%20%E2%80%A2%20Supervised%20%C2%B7%20Unsupervised%20%C2%B7%20Deep%20Learning%20%C2%B7%20GenAI&descSize=17&descAlignY=62&descAlign=50&stroke=FE8019&strokeWidth=1" alt="ML-Algorithms"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Algorithms-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8EC07C&center=true&vCenter=true&width=720&lines=%3E%3E%3E+import+ml_algorithms+as+mla;Fitting+regression+%26+classification+models...+done;Clustering+%26+detecting+anomalies...+done;Training+ANN+%2F+CNN+%2F+RNN...+converged;Retrieval-augmented+generation...+online;24+algorithms+%7C+4+mini+projects+%7C+still+training" alt="typing" />
 </p>
 
 <p align="center">
-  <b>A collection of Machine Learning and Deep Learning algorithms implemented from scratch and using Python libraries. </b>
+  <img src="https://img.shields.io/badge/python-3.10%2B-FE8019?style=flat-square&logo=python&logoColor=white&labelColor=282828"/>
+  <img src="https://img.shields.io/badge/algorithms-24-FABD2F?style=flat-square&labelColor=282828"/>
+  <img src="https://img.shields.io/badge/stack-NumPy%20%7C%20Scikit--learn%20%7C%20TensorFlow-8EC07C?style=flat-square&labelColor=282828"/>
+  <img src="https://img.shields.io/badge/status-actively%20training-B8BB26?style=flat-square&labelColor=282828"/>
+</p>
+
+<p align="center">
+  <b>A collection of Machine Learning and Deep Learning algorithms implemented from scratch and using Python libraries.</b>
 </p>
 
 ---
