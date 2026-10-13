@@ -267,7 +267,7 @@ pip install -r requirements.txt
 ## 🎯 Future Additions
 
 - LightGBM, CatBoost
-- LSTM, GRU, Autoencoders, Transformers, GANs, RAG
+- LSTM, GRU, Autoencoders, GANs
 ---
  
 # ⭐ If you like this project...
