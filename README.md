@@ -1,7 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:191724,50:26233A,100:191724&height=230&section=header&text=ML-Algorithms&fontSize=50&fontColor=EBBCBA&fontAlignY=42&desc=from%20scratch%20%E2%80%A2%20Supervised%20%C2%B7%20Unsupervised%20%C2%B7%20Deep%20Learning%20%C2%B7%20GenAI&descSize=17&descAlignY=62&descAlign=50&stroke=C4A7E7&strokeWidth=1" alt="ML-Algorithms"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=9CCFD8&center=true&vCenter=true&width=720&lines=%3E%3E%3E+import+ml_algorithms+as+mla;Fitting+regression+%26+classification+models...+done;Clustering+%26+detecting+anomalies...+done;Training+ANN+%2F+CNN+%2F+RNN...+converged;Retrieval-augmented+generation...+online;24+algorithms+%7C+4+mini+projects+%7C+still+training" alt="typing" />
+  <img src="assets/header.svg" width="100%" alt="ML-Algorithms — 24 machine learning algorithms built from scratch"/>
 </p>
 
 <p align="center">
